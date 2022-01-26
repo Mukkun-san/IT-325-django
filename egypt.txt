@@ -1,0 +1,25 @@
+In a groundbreaking new study, researchers at the University of Minnesota Twin Cities used a customized printer to fully 3D print a flexible organic light-emitting diode (OLED) display. The discovery could result in low-cost OLED displays in the future that could be widely produced using 3D printers by anyone at home, instead of by technicians in expensive microfabrication facilities.
+
+The OLED display technology is based on the conversion of electricity into light using an organic material layer. OLEDs function as high quality digital displays, which can be made flexible and used in both large-scale devices such as television screens and monitors as well as handheld electronics such as smartphones. OLED displays have gained popularity because they are lightweight, power-efficient, thin and flexible, and offer a wide viewing angle and high contrast ratio.
+
+"OLED displays are usually produced in big, expensive, ultra-clean fabrication facilities," said Michael McAlpine, a University of Minnesota Kuhrmeyer Family Chair Professor in the Department of Mechanical Engineering and the senior author of the study. "We wanted to see if we could basically condense all of that down and print an OLED display on our table-top 3D printer, which was custom built and costs about the same as a Tesla Model S."
+
+The group had previously tried 3D printing OLED displays, but they struggled with the uniformity of the light-emitting layers. Other groups partially printed displays but also relied on spin-coating or thermal evaporation to deposit certain components and create functional devices.
+
+In this new study, the University of Minnesota research team combined two different modes of printing to print the six device layers that resulted in a fully 3D-printed, flexible organic light-emitting diode display. The electrodes, interconnects, insulation, and encapsulation were all extrusion printed, while the active layers were spray printed using the same 3D printer at room temperature. The display prototype was about 1.5 inches on each side and had 64 pixels. Every pixel worked and displayed light.
+
+"I thought I would get something, but maybe not a fully working display," said Ruitao Su, the first author of the study and a 2020 University of Minnesota mechanical engineering Ph.D. graduate who is now a postdoctoral researcher at MIT. "But then it turns out all the pixels were working, and I can display the text I designed. My first reaction was 'It is real!' I was not able to sleep, the whole night."
+
+Su said the 3D-printed display was also flexible and could be packaged in an encapsulating material, which could make it useful for a wide variety of applications.
+
+"The device exhibited a relatively stable emission over the 2,000 bending cycles, suggesting that fully 3D printed OLEDs can potentially be used for important applications in soft electronics and wearable devices," Su said.
+
+The researchers said the next steps are to 3D print OLED displays that are higher resolution with improved brightness.
+
+"The nice part about our research is that the manufacturing is all built in, so we're not talking 20 years out with some 'pie in the sky' vision," McAlpine said. "This is something that we actually manufactured in the lab, and it is not hard to imagine that you could translate this to printing all kinds of displays ourselves at home or on the go within just a few years, on a small portable printer."
+
+In addition to McAlpine and Su, the research team included University of Minnesota mechanical engineering researchers Xia Ouyang, a postdoctoral researcher; Sung Hyun Park, who is now a senior researcher at Korea Institute of Industrial Technology; and Song Ih Ahn, who is now an assistant professor of mechanical engineering at Pusan National University in Korea.
+
+Video: https://youtu.be/k7KV_lOIp8o
+
+The research was funded primarily by the National Institute of Biomedical Imaging and Bioengineering of the National Institutes of Health (Award No. 1DP2EB020537) with additional support from The Boeing Company and the Minnesota Discovery, Research, and InnoVation Economy (MnDRIVE) Initiative through the State of Minnesota. Portions of this study were conducted in the Minnesota Nano Center, which is supported by the National Science Foundation through the National Nano Coordinated Infrastructure Network (NNCI).
